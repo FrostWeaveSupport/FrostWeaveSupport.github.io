@@ -1,18 +1,18 @@
 <!-- markdownlint-disable MD004 MD033 -->
 <div align="center">
 
-# FrostWeave Intranet
+# FrostWeave Support
 
-<img src="_media/logo.png" alt="intranet">
+<img src="_media/logo.png" alt="support">
 
-Intranet for the **World of Warcraft** Server FrostWeave and its GMs
+Support for the **World of Warcraft** Server FrostWeave and its Community
 
 </div>
 
 ## 🛠️ How to?
 
-See the [Quick start](https://svenbledt.github.io/Frostweave_Core/#/getting-started/quickstart) guide for more details.
+See the [Quick start](https://FrostWeaveSupport.github.io/#/getting-started/quickstart) guide for more details.
 
 ## 🖥️ Executive Developers
 
--   **[Trojan](https://github.com/svenbledt) for the Lua Part of the Software**
+- **[Trojan](https://github.com/svenbledt) for the Documentation and the Development on the Server**

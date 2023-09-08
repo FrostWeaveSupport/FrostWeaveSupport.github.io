@@ -2,7 +2,7 @@
 
 > WoW 3.3.5a Private Server intranet for GMs
 
-[Getting Started](#frostweave-intranet)
+[Getting Started](#frostweave-support)
 
 ![](_media/bg.png)
 
