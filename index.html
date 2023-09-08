@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>FrostWeave Intranet</title>
+        <meta
+            name="google-site-verification"
+            content="6OvSZnxDwtpu2GD1Pdij1661AUSxEp9qkS5oytILICk"
+        />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="keywords" content="Frostweave,intranet" />
+        <meta name="description" content="Frostweave GM Intranet." />
+        <meta property="og:title" content="FrostWeave Intranet" />
+        <meta property="og:description" content="Frostweave GM Intranet." />
+        <meta
+            property="og:image"
+            content="https://svenbledt.github.io/Frostweave_Core/_media/logo.png"
+        />
+        <meta
+            property="og:url"
+            content="https://svenbledt.github.io/Frostweave_Core/"
+        />
+        <meta
+            name="viewport"
+            content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+        />
+        <link
+            rel="icon"
+            href="https://svenbledt.github.io/Frostweave_Core/_media/favicon.ico"
+            type="image/gif"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+        />
+    </head>
+
+    <body>
+        <div id="app">Loading...</div>
+        <script>
+            window.$docsify = {
+                name: "Intranet",
+                logo: 'logo.png height="52px"',
+                repo: "https://github.com/svenbledt/Frostweave_Core",
+                coverpage: true,
+                auto2top: true,
+                executeScript: true,
+                loadSidebar: true,
+                maxLevel: 4,
+                subMaxLevel: 3,
+                gtag: ["G-C40H56NC3Y", "UA-275906865-1"],
+                search: {
+                    maxAge: 86400000,
+                    paths: "auto",
+                    placeholder: "Search api",
+                    noData: "No Results",
+                    depth: 6,
+                    hideOtherSidebarContent: false,
+                    namespace: "website-1",
+                    alias: {
+                        "/.*/_sidebar.md": "/_sidebar.md",
+                    },
+                },
+            };
+        </script>
+        <style>
+            :root {
+                --content-max-width: 100em;
+            }
+
+            body {
+                background-image: url("https://svenbledt.github.io/Frostweave_Core/_media/background.png");
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-position: center;
+            }
+        </style>
+        <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+        <script src="//cdn.jsdelivr.net/gh/sy-records/docsify-nightly@master/lib/plugins/gtag.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-lua.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+    </body>
+</html>

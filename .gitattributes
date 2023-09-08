@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.png binary
+*.ico binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tga binary
+*.dds binary
+*.psd binary
+*.tif binary
+*.tiff binary
+*.hdr binary
+*.exr binary
+*.cubemap binary
+*.anim binary
+*.animset binary
+*.asset binary
+*.asset.meta binary
