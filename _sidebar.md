@@ -2,12 +2,12 @@
 
   - [Quick start](getting-started/quickstart.md)
 
-- <img src="_media/rules.png" alt="RULES" style="vertical-align: middle;"> **Rules & FAQ**
+- <img src="_media/rules.png" alt="RULES" style="vertical-align: middle;"> **Rules**
   
     - [Rules](rules/rules.md)
     
 
-- <img src="_media/faq.png" alt="FAQ Icon" style="vertical-align: middle;"> **Usefull**
+- <img src="_media/faq.png" alt="FAQ Icon" style="vertical-align: middle;"> **FAQ**
 
   - [FAQ](rules/faq.md)
 
