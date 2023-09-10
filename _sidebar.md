@@ -2,9 +2,10 @@
 
   - [Quick start](getting-started/quickstart.md)
 
-- <img src="_media/todo.png" alt="TODO" style="vertical-align: middle;"> **TODO**
+- <img src="_media/todo.png" alt="TODO" style="vertical-align: middle;"> **Rules & FAQ**
   
-    - [TODO](todo/todo.md)
+    - [Rules](rules/rules.md)
+    - [FAQ](rules/faq.md)
 
 - <img src="_media/useful.png" alt="Usefull Icon" style="vertical-align: middle;"> **Usefull**
 
