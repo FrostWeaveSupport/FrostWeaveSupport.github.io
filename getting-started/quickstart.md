@@ -1,13 +1,17 @@
 # Quick start
 
-Assuming you already know how we work on the Server theres not much to say
+Assuming you already know how to play on the Server theres not much to say
 
--   Content will follow here as soon as i have time
+- Please always read the rules and follow them **[here](/rules/intro)**
 
-to see the GM Commands you can go here [GM Commands](useful/gm-commands)
+- If you have any questions, please check the **[FAQ](/faq/faq)** first
 
-## GM Addon
+- Sometimes questions are already answered in the **[Discord](https://discord.gg/c6GZKjVhxw)**
 
-Here are come GM addons that can help you with your work
+- If you cant find your answer, please ask in the **[Discord](https://discord.gg/c6GZKjVhxw)** or create a **[Ticket](https://discord.com/channels/@me/1143844428373561384)**
 
-[GM Genie](https://github.com/azerothcore/GMGenie)
+- If you have any suggestions, please dont hesitate to create a **[Ticket](https://discord.com/channels/@me/1143844428373561384)** too.
+
+## How to get started
+
+- All instructions on how to get started can be found **[here](https://discord.com/channels/@me/1148725800997224610)**. Just send the command !instructions to the bot and you will get all information on how to create your account and what you need to download and install.
