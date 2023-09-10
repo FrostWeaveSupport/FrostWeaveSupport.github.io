@@ -2,13 +2,14 @@
 
   - [Quick start](getting-started/quickstart.md)
 
-- <img src="_media/todo.png" alt="TODO" style="vertical-align: middle;"> **TODO**
+- <img src="_media/rules.png" alt="RULES" style="vertical-align: middle;"> **Rules**
   
-    - [TODO](todo/todo.md)
+    - [Rules](rules/rules.md)
+    
 
-- <img src="_media/useful.png" alt="Usefull Icon" style="vertical-align: middle;"> **Usefull**
+- <img src="_media/faq.png" alt="FAQ Icon" style="vertical-align: middle;"> **FAQ**
 
-  - [GM Commands](useful/gm-commands.md)
+  - [FAQ](rules/faq.md)
 
 - <a href="https://discord.gg/c6GZKjVhxw">
   <img src="_media/server.png" alt="Server Icon">Project Server</a>
