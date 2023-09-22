@@ -14,4 +14,4 @@ Assuming you already know how to play on the Server theres not much to say
 
 ## How to get started
 
-- All instructions on how to get started can be found **[here](https://discord.com/channels/@me/1148725800997224610)**. Just send the command !instructions to the bot and you will get all information on how to create your account and what you need to download and install.
+- All instructions on how to get started can be found **[here](https://discord.com/channels/@me/1148725800997224610)**. Just send the command /instructions to the bot and you will get all information on how to create your account and what you need to download and install.
