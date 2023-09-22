@@ -17,8 +17,8 @@ Thenks for your Time and have fun playing on the server.
 We reserve the right to change the rules at any time.
 ```
 
-```
-Please contact our discord bot for any Kind of Reports, to not interrupt other peoples gameplay.
-```
+
+Please contact our [FrostWeave Helper](https://discord.com/channels/@me/1143844428373561384) for any Kind of Reports, to not interrupt other peoples gameplay.
+
 
 </div>
