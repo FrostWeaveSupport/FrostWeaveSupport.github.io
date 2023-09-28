@@ -16,3 +16,6 @@ See the [Quick start](https://FrostWeaveSupport.github.io/#/getting-started/quic
 ## 🖥️ Executive Developers
 
 - **[Trojan](https://github.com/svenbledt) for the Documentation and the Development on the Server**
+
+## 📝 Credits
+- <img src="_media/AC_logo-small.png" alt="AzerothCore" width="16"/> **[AzerothCore](https://azerothcore.org) for the Development on the Framework and the help during the Development phase** 
